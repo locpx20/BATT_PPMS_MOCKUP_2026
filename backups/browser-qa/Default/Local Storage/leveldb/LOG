@@ -1,0 +1,17 @@
+2026/10/30-05:39:30.345 2e28 Creating DB D:\Tool_draw_document\BATT_PPMS_UI\backups\browser-qa\Default\Local Storage\leveldb since it was missing.
+2026/10/30-05:39:30.406 2e28 Reusing MANIFEST D:\Tool_draw_document\BATT_PPMS_UI\backups\browser-qa\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/30-05:43:37.645 7140 Level-0 table #5: started
+2026/10/30-05:43:37.657 7140 Level-0 table #5: 17972 bytes OK
+2026/10/30-05:43:37.668 7140 Delete type=0 #3
+2026/10/30-05:45:03.648 7140 Level-0 table #7: started
+2026/10/30-05:45:03.656 7140 Level-0 table #7: 9662 bytes OK
+2026/10/30-05:45:03.668 7140 Delete type=0 #4
+2026/10/30-05:46:08.393 7140 Level-0 table #9: started
+2026/10/30-05:46:08.397 7140 Level-0 table #9: 9823 bytes OK
+2026/10/30-05:46:08.402 7140 Delete type=0 #6
+2026/10/30-05:48:33.284 7140 Level-0 table #11: started
+2026/10/30-05:48:33.292 7140 Level-0 table #11: 9794 bytes OK
+2026/10/30-05:48:33.302 7140 Delete type=0 #8
+2026/10/30-05:48:34.129 7140 Level-0 table #13: started
+2026/10/30-05:48:34.138 7140 Level-0 table #13: 9804 bytes OK
+2026/10/30-05:48:34.147 7140 Delete type=0 #10
